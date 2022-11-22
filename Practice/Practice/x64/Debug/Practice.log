@@ -1,0 +1,8 @@
+﻿  Practice.cpp
+C:\Users\User\Desktop\Practice\Practice\Practice\Practice.cpp(108,33): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\User\Desktop\Practice\Practice\Practice\Practice.cpp(263,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\User\Desktop\Practice\Practice\Practice\Practice.cpp(281,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\User\Desktop\Practice\Practice\Practice\Practice.cpp(331,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\User\Desktop\Practice\Practice\Practice\Practice.cpp(349,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\User\Desktop\Practice\Practice\Practice\Practice.cpp(399,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Practice.vcxproj -> C:\Users\User\Desktop\Practice\Practice\x64\Debug\Practice.exe
